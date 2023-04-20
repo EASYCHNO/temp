@@ -52,6 +52,12 @@ namespace Layout
 
 
 Серьезность	Код	Описание	Проект	Файл	Строка	Состояние подавления
-Ошибка	CS0029	Не удается неявно преобразовать тип "System.Collections.Generic.List<Layout.Person>" в "System.Collections.Generic.List<Android.App.Person>".	Layout	C:\Users\Experts\source\repos\Layout\Layout\MainActivity.cs	32	Активные
+Ошибка	CS0029	Не удается неявно преобразовать тип "System.Collections.Generic.List<Layout.Person>" в "System.Collections.Generic.List<Android.App.Person>".Layout	C:\Users\Experts\source\repos\Layout\Layout\MainActivity.cs	32	Активные
 
+
+
+
+
+Серьезность	Код	Описание	Проект	Файл	Строка	Состояние подавления
+Ошибка	CS0310	'Person" должен быть неабстрактным типом и иметь открытый конструктор без параметров, чтобы использовать его в качестве параметра "T" в универсальном типе или методе "SQLiteConnection.Table<T>()".	Layout	C:\Users\Experts\source\repos\Layout\Layout\MainActivity.cs	32	Активные
 
